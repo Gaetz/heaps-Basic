@@ -5,7 +5,9 @@ Basic heaps/haxe project, configured to run with HashLink, with Visual Code as I
 
 ### Install Haxe language
 
-You need Haxe 4, get the last preview, or the full language if released:
+You need Haxe 4.
+
+Get the last preview, or the full language if released:
 https://haxe.org/download/list/
 
 
@@ -25,7 +27,9 @@ Unzip it somewhere, and add the folder to your PATH
 Restart the command line then type:
 
 `haxelib install hldx`
+
 `haxelib install openal`
+
 `haxelib install hlsdl`
 
 You can test if HashLink is installed by typing `hl` in your terminal.
