@@ -21,9 +21,9 @@ HashLink is the new haxe virtual machine.
 
 Download HashLink from https://hashlink.haxe.org/#download
 
-Unzip it somewhere, and add the folder to your PATH
+Unzip it somewhere, and add the folder to your PATH.
 
-### Install HashLink moludes
+### Install HashLink modules
 Restart the command line then type:
 
 `haxelib install hldx`
